@@ -1,0 +1,5 @@
+numbers = (45, 12, 78, 34, 90) 
+print("Length:", len(numbers)) 
+print("Maximum:", max(numbers)) 
+print("Minimum:", min(numbers)) 
+print("Sum:", sum(numbers)) 

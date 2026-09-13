@@ -1,0 +1,9 @@
+m1 = 78 
+m2 = 85 
+m3 = 92 
+m4 = 88 
+m5 = 80 
+total = m1 + m2 + m3 + m4 + m5 
+percentage = total / 5 
+print("Total =", total) 
+print("Percentage =", percentage) 
